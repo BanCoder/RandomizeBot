@@ -16,3 +16,4 @@ C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\Rand
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\RandomizeBot.pdb
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\RandomizeBot.genruntimeconfig.cache
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\ref\RandomizeBot.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\RandomizeBot.sourcelink.json
