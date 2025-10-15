@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomizeBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1744cf829f3e884fc2a816e51affa45182344de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89dc86b3882eba5d1f81e0f8caa9f7f6dc4fc1a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomizeBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomizeBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

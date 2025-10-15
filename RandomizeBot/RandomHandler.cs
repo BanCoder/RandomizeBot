@@ -9,7 +9,7 @@ namespace RandomizeBot
 {
 	internal class RandomHandler
 	{
-		private static string _token = "8196264528:AAGfIGUNOGA0-nbEO-WBmlDvaiGWAWtPTgU";
+		private static string _token = App.Settings.Token;
 		private static TelegramBotClient _client;
 		private static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
 		{

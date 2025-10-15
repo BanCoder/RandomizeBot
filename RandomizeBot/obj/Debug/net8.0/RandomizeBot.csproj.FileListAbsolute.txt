@@ -17,3 +17,16 @@ C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\Rand
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\RandomizeBot.genruntimeconfig.cache
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\ref\RandomizeBot.dll
 C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\obj\Debug\net8.0\RandomizeBot.sourcelink.json
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\RandomizeBot\RandomizeBot\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
