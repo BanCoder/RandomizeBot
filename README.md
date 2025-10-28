@@ -19,7 +19,7 @@
    ```
 2. Настройте конфигурацию 
    
-   Создайте файл `appsettings.json`:
+   Изменить файл `appsettings.json` на свои данные:
    ```json
     {
 	    "TgSettings": 
