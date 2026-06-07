@@ -1,13 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RandomizeBot
 {
-	internal class App
+	public class App
 	{
 		public static IConfiguration Configuration { get; private set; }
 		public static AppSettings Settings { get; private set; }

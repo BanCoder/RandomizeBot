@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RandomizeBot
+﻿namespace RandomizeBot
 {
-	internal class AppSettings
+	public class AppSettings
 	{
 		public required string Token { get; set; }
 	}

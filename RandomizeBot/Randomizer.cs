@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using Telegram.Bot;
+﻿using Telegram.Bot;
 using Telegram.Bot.Types;
 
 namespace RandomizeBot
 {
-	internal class Randomizer
+	public class Randomizer
 	{
 		private static int RandomizeNumber()
 		{

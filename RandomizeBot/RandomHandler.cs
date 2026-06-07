@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using Telegram.Bot;
+﻿using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
 namespace RandomizeBot
 {
-	internal class RandomHandler
+	public class RandomHandler
 	{
 		private static string _token = App.Settings.Token;
 		private static TelegramBotClient _client;
